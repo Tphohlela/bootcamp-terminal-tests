@@ -1,3 +1,3 @@
 # bootcamp-terminal-tests
 
-https://travis-ci.com/Tphohlela/bootcamp-terminal-tests.svg?branch=main
+[![Build Status](https://travis-ci.com/Tphohlela/bootcamp-terminal-tests.svg?branch=master)](https://travis-ci.com/Tphohlela/bootcamp-terminal-tests)
